@@ -1,4 +1,4 @@
-# Pushswap-Checker
+# [Epitech Haskell] Pushswap-Checker
 Projet final de la piscine d'haskell d'Epitech (promo 2024) réalisé en collaboration avec [Auguste Thomann](https://github.com/Athmnn)
 
 # But du projet
